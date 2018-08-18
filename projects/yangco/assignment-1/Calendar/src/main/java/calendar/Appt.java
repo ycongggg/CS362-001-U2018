@@ -221,7 +221,7 @@ public class Appt{
     
     /** Sets description */
     public void setDescription(String description) {
-        if (description == null)
+        if (description = null)
             this.description = "";
         else
             this.description = description;
